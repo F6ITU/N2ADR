@@ -1,0 +1,4 @@
+(sym_lib_table
+  (lib (name n2adr)(type Legacy)(uri ${KIPRJMOD}/libs/n2adr.lib)(options "")(descr ""))
+  (lib (name hermeslite)(type Legacy)(uri C:/Users/Marco/Documents/Kicad/Projets/Hermes-Lite2/hardware/hl/libs/hermeslite.lib)(options "")(descr ""))
+)

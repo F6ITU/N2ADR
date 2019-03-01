@@ -1,0 +1,7 @@
+(fp_lib_table
+  (lib (name N2ADR)(type KiCad)(uri ${KIPRJMOD}/libs/n2adr.pretty)(options "")(descr ""))
+  (lib (name SMA_PINS)(type KiCad)(uri C:/Users/Marco/Documents/Kicad/modules/SMA_PINS.pretty)(options "")(descr ""))
+  (lib (name via)(type KiCad)(uri C:/Users/Marco/Documents/Kicad/modules/via.pretty)(options "")(descr ""))
+  (lib (name hermeslite)(type KiCad)(uri C:/Users/Marco/Documents/Kicad/Projets/Hermes-Lite2/hardware/hl/libs/hermeslite.pretty)(options "")(descr ""))
+  (lib (name Coax_2mm)(type KiCad)(uri ${KIPRJMOD}/libs/Coax_2mm.pretty)(options "")(descr ""))
+)
