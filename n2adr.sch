@@ -1258,7 +1258,7 @@ Wire Wire Line
 Connection ~ 5650 6300
 Connection ~ 6550 6300
 Wire Wire Line
-	5100 6300 5650 6300
+	5100 6300 5250 6300
 Connection ~ 5650 5600
 Wire Wire Line
 	5850 5600 5650 5600
@@ -2512,4 +2512,9 @@ Wire Wire Line
 Connection ~ 5450 4700
 Wire Wire Line
 	5450 4700 5750 4700
+Wire Wire Line
+	5250 6250 5250 6300
+Connection ~ 5250 6300
+Wire Wire Line
+	5250 6300 5650 6300
 $EndSCHEMATC
