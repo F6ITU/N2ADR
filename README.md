@@ -1,5 +1,5 @@
 # N2ADR
-N2ADR HPF &amp; antialiasing lpf for the Hermes Lite V2 project (fork heavily modified) 
+N2ADR HPF &amp;  lpf for the Hermes Lite V2 project (fork heavily modified) 
 
 This fork of the original N2ADR filter project (https://github.com/softerhardware/Hermes-Lite2/tree/master/hardware/companions/n2adr )
 is designed on less expansive 2 sides only PCB. This filter can be directly plugged on a Hermes Lite V2 board or installed as a "piggy back" extension
